@@ -1,0 +1,14 @@
+.body_backgorund 
+{
+    background-image:url(https://img.freepik.com/free-photo/balloons-various-party-decorations-top-view_118925-12.jpg?size=626&ext=jpg);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+   border-width: 10px;
+   background-color: white;
+   border-style: groove;
+   border-color: black;
+}
+
